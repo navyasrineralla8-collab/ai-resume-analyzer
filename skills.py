@@ -1,0 +1,1 @@
+SKILLS=["pyhton","java","sql","django","flask","machine learning","deep learning","html","css","javascript","git","react"]
